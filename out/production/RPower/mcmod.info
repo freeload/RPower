@@ -1,0 +1,21 @@
+[
+{
+  "modid": "rpower",
+  "name": "RPower",
+  "description": "TE addon",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Waliax"
+  ],
+  "credits": "To evryone , exept ptaq ;p",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
